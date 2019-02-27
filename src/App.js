@@ -5,7 +5,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <h1> whats up bitches ! this is so awesome !!  </h1>
+      <h1> whats up bitches ! this is so awesome !! holaa atom!!..   </h1>
     );
   }
 }
