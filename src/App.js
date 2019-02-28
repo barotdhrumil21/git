@@ -8,6 +8,7 @@ class App extends Component {
       <h1> whats up bitches !! holaa from atom ..!!</h1>
       <h1>Heya!!</h1>
       <h1>hola !! </h1>
+
     );
   }
 }
